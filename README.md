@@ -14,7 +14,7 @@ Simulates the thermal profile of a 2D IC layout to detect temperature hotspots u
 - Visual heat map plotted from simulation
 
 ## 📁 Files
-- `thermal_simulation.m`: Main MATLAB simulation
+- `MATLAB-code.m`: Main MATLAB simulation
 - `output_heatmap.png`: Resulting plot (optional)
 
 ## ✅ Status
